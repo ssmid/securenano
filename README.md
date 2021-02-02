@@ -11,3 +11,7 @@ nano and PyCryptoDome are required.
 `apt install nano`
 
 `pip install pycryptodome`
+
+
+# Usage
+` $ ./securenano.py my_secret.txt`
