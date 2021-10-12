@@ -14,4 +14,4 @@ nano and PyCryptoDome are required.
 
 
 ## Usage
-` $ ./securenano.py my_secret.txt`
+` $ ./securenano.py my_secret`
